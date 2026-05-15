@@ -79,7 +79,7 @@ fun HomeScreen(onAlbumClick: (String) -> Unit) {
                         }
                         Spacer(modifier = Modifier.height(16.dp))
                         Text(text = "Good Morning!", color = Color.White.copy(alpha = 0.85f), fontSize = 14.sp)
-                        Text(text = "Juan Frausto", color = Color.White, fontSize = 26.sp, fontWeight = FontWeight.Bold)
+                        Text(text = "Diego Garcia", color = Color.White, fontSize = 26.sp, fontWeight = FontWeight.Bold)
                     }
                 }
             }
